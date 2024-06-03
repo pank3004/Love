@@ -1,5 +1,5 @@
 
-// Assignment quesion missing vallue given duplicate array
+// Assignment quesion missing vallue given duplicate array  [1,n]
 #include<iostream>
 #include<vector>
 using namespace std;

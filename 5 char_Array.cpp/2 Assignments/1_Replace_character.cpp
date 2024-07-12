@@ -35,9 +35,6 @@ int main(){
     cout<<"this is the array after replacment: "<<endl;
     cout<<arr<<endl;
 
-    
-    
-
 
     return 0;
 }
